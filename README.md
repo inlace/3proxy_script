@@ -7,23 +7,24 @@ This repository contains a Bash script for quickly installing and setting up the
 - A Debian-based Linux distribution (e.g., Ubuntu)
 - Root access
 
-## Installation and Setup
+## 💻 Installation and Setup
 
-To install and set up 3proxy using the provided script, follow these steps:
+To install and set up 3proxy using the provided script, follow these simple steps:
 
-1. Clone this repository to your local system:
-git clone https://github.com/lindex/3proxy_script_install.git
+1. **Clone this repository** to your local system:
+   git clone https://github.com/lindex/3proxy_script_install.git
 
-2. Change the directory to the cloned repository:
-cd 3proxy_script_install
+2. **Change the directory** to the cloned repository:
+   cd 3proxy_script_install
 
-3. Make the script executable:
-chmod +x 3proxy_install.sh
+3. **Make the script executable**:
+   chmod +x 3proxy_install.sh
 
-4. Run the script as root:
-sudo ./3proxy_install.sh
+4. **Run the script as root**:
+   sudo ./3proxy_install.sh
 
-5. The script will install the necessary dependencies, compile and install 3proxy, create a configuration file, and set up a systemd service. It will also generate 10 random user accounts and display them at the end of the script execution.
+5. The script will install the necessary dependencies, compile and install 3proxy, create a configuration file, and set up a systemd service. It will also generate 10 random user accounts and display them at the end of the script execution. 🎉
+
 ## Configuration
 
 The configuration file is located at `/etc/3proxy/3proxy.cfg`. You can edit this file to modify the proxy settings, such as changing the listening IP, port, or adding more users for authentication.
