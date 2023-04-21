@@ -1,6 +1,6 @@
 # 3proxy_script_install
 
-This repository contains a Bash script for quickly installing and setting up the [3proxy](https://github.com/z3APA3A/3proxy) proxy server on Debian-based systems (e.g., Ubuntu). The script configures 3proxy as a SOCKS5 proxy server with basic settings and generates 10 random user accounts for authentication.
+This repository contains a Bash script for quickly installing and setting up the [3proxy](https://github.com/3proxy/3proxy) proxy server on Debian-based systems (e.g., Ubuntu). The script configures 3proxy as a SOCKS5 proxy server with basic settings and generates 10 random user accounts for authentication.
 
 ## Prerequisites
 
