@@ -12,18 +12,19 @@ This repository contains a Bash script for quickly installing and setting up the
 To install and set up 3proxy using the provided script, follow these simple steps:
 
 1. **Clone this repository** to your local system:
-   git clone https://github.com/lindex/3proxy_script_install.git
+   `git clone https://github.com/lindex/3proxy_script_install.git`
 
 2. **Change the directory** to the cloned repository:
-   cd 3proxy_script_install
+   `cd 3proxy_script_install`
 
 3. **Make the script executable**:
-   chmod +x 3proxy_install.sh
+   `chmod +x 3proxy_install.sh`
 
 4. **Run the script as root**:
-   sudo ./3proxy_install.sh
+   `sudo ./3proxy_install.sh`
 
 5. The script will install the necessary dependencies, compile and install 3proxy, create a configuration file, and set up a systemd service. It will also generate 10 random user accounts and display them at the end of the script execution. 🎉
+
 
 ## Configuration
 
