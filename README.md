@@ -49,6 +49,4 @@ The log files are stored in `/var/log/3proxy`. You can monitor the logs using th
 
 This command will display the log output in real-time.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
