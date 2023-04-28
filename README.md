@@ -43,9 +43,6 @@ The script creates a systemd service for 3proxy. You can manage the service usin
 
 ## Logs
 
-The log files are stored in `/var/log/3proxy`. You can monitor the logs using the `tail` command:
-
-
-This command will display the log output in real-time.
+The log files are stored in `/var/log/3proxy`. 
 
 
