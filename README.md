@@ -11,7 +11,7 @@ This repository contains a Bash script for quickly installing and setting up the
 
 To install and set up 3proxy using the provided script, follow these simple steps:
 
-1. **downlad script:
+1. **downlad script**:
    `wget https://raw.githubusercontent.com/lindex/3proxy_script/main/3proxy_script_install.sh`
 
 2. **Make the script executable**:
